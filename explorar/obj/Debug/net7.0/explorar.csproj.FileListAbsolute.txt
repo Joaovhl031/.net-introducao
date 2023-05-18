@@ -1,0 +1,15 @@
+C:\DIO\explorar\bin\Debug\net7.0\explorar.exe
+C:\DIO\explorar\bin\Debug\net7.0\explorar.deps.json
+C:\DIO\explorar\bin\Debug\net7.0\explorar.runtimeconfig.json
+C:\DIO\explorar\bin\Debug\net7.0\explorar.dll
+C:\DIO\explorar\bin\Debug\net7.0\explorar.pdb
+C:\DIO\explorar\obj\Debug\net7.0\explorar.csproj.AssemblyReference.cache
+C:\DIO\explorar\obj\Debug\net7.0\explorar.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\explorar\obj\Debug\net7.0\explorar.AssemblyInfoInputs.cache
+C:\DIO\explorar\obj\Debug\net7.0\explorar.AssemblyInfo.cs
+C:\DIO\explorar\obj\Debug\net7.0\explorar.csproj.CoreCompileInputs.cache
+C:\DIO\explorar\obj\Debug\net7.0\explorar.dll
+C:\DIO\explorar\obj\Debug\net7.0\refint\explorar.dll
+C:\DIO\explorar\obj\Debug\net7.0\explorar.pdb
+C:\DIO\explorar\obj\Debug\net7.0\explorar.genruntimeconfig.cache
+C:\DIO\explorar\obj\Debug\net7.0\ref\explorar.dll
